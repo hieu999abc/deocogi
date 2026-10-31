@@ -54,8 +54,8 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Mày nhìn cái chó gì? ✨👀",
-                    body: "Tài khoản của bạn đã bị khoá 💛",
-                  imageURL: "https://i.ibb.co/Nd6xRNCp/1793207893345-51238425216241447-1744175342587368869-364a1c7f2515c3737089ab5396e48341.png"
+                    body: "Nhìn vào qr bên trên biết chưaaaa 💛",
+                  imageURL: "https://i.ibb.co/6cFwbQkZ/1793207893345-51238425216241447-1744175342587368869-364a1c7f2515c3737089ab5396e48341.png"
                 }
             ],
             primary_button_title: "Xong",
